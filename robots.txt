@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://wxtq789.github.io/sitemap.xml
